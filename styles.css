@@ -1,0 +1,25 @@
+        /* Здесь можно добавить стили для страницы */
+        /* Например, изменить цвет текста или фоновый цвет */
+        body {
+            color: #000;
+            background-color: #f8f8f8;
+        }
+        
+        h1, h2 {
+            color: #FFA500;
+        }
+        
+        nav {
+            background-color: #000;
+            color: #FFF;
+        }
+        
+        nav a {
+            color: #FFA500;
+        }
+        
+        article {
+            border: 1px solid #000;
+            background-color: #FFF;
+            padding: 10px;
+        }
